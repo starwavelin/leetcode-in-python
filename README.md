@@ -1,43 +1,38 @@
 # leetcode-in-python
 
 ### Overview
-This is a repo containing my practice of algorithm problems drawn from [LeetCode](https://leetcode.com/problemset/all/) with my Java solution in [AlgPrac](https://github.com/starwavelin/AlgorithmPractice/tree/master/AlgPrac) project.  
-* [Summary](SUMMARY.md): Summary of how to review algorithm problems
+This is a repo containing my practice of algorithm problems drawn from [LeetCode](https://leetcode.com/problemset/all/) with my python solutions in [leetcode-in-python](https://github.com/starwavelin/leetcode-in-python) project.  
+* [Summary](./): Summary of how to review algorithm problems
 * LeetCode Problem List [:pencil2:](#leetcode-problem-list)  
 * Non-LeetCode Problem List [:sweat_drops:](#non-leetcode-problem-list)
 
 
 ### Searching in this Repository
 I have enabled searching by tag by adding meta to each source file. During search you may append `tag-` as prefix of the tag string.
-For example, to search on problems on arrays: you navigate to [this repo url](https://github.com/starwavelin/AlgorithmPractice) and enter following on search box: `tag-array`
+For example, to search on problems on arrays: you navigate to [this repo url](https://github.com/starwavelin/leetcode-in-python) and enter following on search box: `tag-array`
 
 Supported list of problem categories for searching,
- * [Array](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-array)
- * [Backtracking](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-backtracking): Backtracking/Permutation/Combination problems
- * [Binary Search](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-binarySearch): Binary search problems and problems using binary search ideas
- * [Binary Tree](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-binary-tree)
- * [Binary Search Tree](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-binary-search-tree)
- * [Bitwise](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-bitwise): Bit manipulation
- * [Data Structure](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-data-structure): Data structure design
- * [Dynamic Programming](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-dp)
- * [Divide and Conquer](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-divide-and-conquer)
- * [Graph](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-graph)
- * [Hash](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-hash): Use hashing ideas/methods
- * [Linked List](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-linked-list)
- * [Math](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-math): Use mathematic knowledge/ideas
- * [Sort](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-sort)
- * [Stack](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-stack)
- * [String](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-string)
- * [Two Pointers](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-two-pointers)
-
-
-Company based categories,
- * [Google](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-google)
- * [Bloomberg](https://github.com/starwavelin/AlgorithmPractice/search?utf8=%E2%9C%93&q=tag-bloomberg)
+ * [Array](./)
+ * [String](./)
+ * [Two Pointers](./)
+ * [Interval](./)
+ * [Sorting](./)
+ * [Linked List](./)
+ * [Hash](./)
+ * [Stack / Queue](./)
+ * [Binary Search](./)
+ * [Binary Tree](./)
+ * [Advanced Tree](./)
+ * [Graph](./)
+ * [Combinatorics](./)
+ * [Dynamic Programming](./)
+ * [Bit](./)
+ * [Math](./)
+ * [Data Structure Design](./)
 
 ### LeetCode Problem List
 Note: $ means paid-to-view problems; \* means SQL problems; \# means bash problems;
-\! menas the current solution has wrong answers     
+\! means the current solution has wrong answers     
 
 **Problem 751 -**
 
