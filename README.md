@@ -12,7 +12,7 @@ I have enabled searching by tag by adding meta to each source file. During searc
 For example, to search on problems on arrays: you navigate to [this repo url](https://github.com/starwavelin/leetcode-in-python) and enter following on search box: `tag-array`
 
 Supported list of problem categories for searching,
- * [Array](./)
+ * [Array](./search?utf8=✓&q=tag-array)
  * [String](./)
  * [Two Pointers](./)
  * [Interval](./)

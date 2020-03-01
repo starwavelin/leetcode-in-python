@@ -3,7 +3,7 @@
 * Problem Name: Two Sum
 * Problem URL : https://leetcode.com/problems/two-sum/description/
 * Date        : Oct 18 2017
-* Author	  :	Xian Lin
+* Author      :	Xian Lin
 * Notes       :
 * 	Scenario:
 * 		Given an array of integers, return indices of the two numbers such that they add up to a specific target.
