@@ -19,7 +19,8 @@ Supported list of problem categories for searching,
  * [Sorting](./)
  * [Linked List](./)
  * [Hash](./)
- * [Stack / Queue](./)
+ * [Stack](./)
+ * [Queue](./)
  * [Binary Search](./)
  * [Binary Tree](./)
  * [Advanced Tree](./)
@@ -214,7 +215,7 @@ Note: $ means paid-to-view problems; \* means SQL problems; \# means bash proble
 | 551	| Student Attendance Record I | Easy | | |
 | 549	| Binary Tree Longest Consecutive Sequence II $ | Medium | | |
 | 548	| Split Array with Equal Sum $ | Medium | | |
-| 547	| [Friend Circles](AlgPrac/src/graph/FriendCircles.java) | Medium | | |
+| 547	| [Friend Circles](./) | Medium | | |
 | 546	| Remove Boxes | Hard | | |
 | 545	| Boundary of Binary Tree $ | Medium | | |
 | 544	| Output Contest Matches $ | Medium | | |
@@ -403,8 +404,8 @@ Note: $ means paid-to-view problems; \* means SQL problems; \# means bash proble
 | 351	| Android Unlock Patterns $ | Medium | | |
 | 350	| Intersection of Two Arrays II | Easy | | |
 | 349	| Intersection of Two Arrays | Easy  | | |
-| 348	| Design Tic-Tac-Toe [形式2](AlgPrac/src/ood/TicTacToe2.java) $ | Medium | | |
-| 347	| [Top K Frequent Elements](AlgPrac/src/sorting/TopKFrequentElements.java) | Medium | | |
+| 348	| Design Tic-Tac-Toe [形式2](./) $ | Medium | | |
+| 347	| [Top K Frequent Elements](./) | Medium | | |
 | 346	| Moving Average from Data Stream  $ | Easy | | |
 | 345	| Reverse Vowels of a String | Easy | | |
 | 344	| Reverse String | Easy | | |
