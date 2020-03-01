@@ -34,5 +34,44 @@ class Solution1:
                     return [i, j]
 
 sol = Solution1()
+# print(sol.two_sum([33, -2, 14, 5, 4, 9], 3)) # should print out [1, 3]
+# print(sol.two_sum([3, 2, 4], 6)) # should print out [1, 2]
+
+
+class Solution2:
+    def two_sum(self, nums: List[int], target: int) -> List[int]:
+        if nums == None or len(nums) < 2:
+            return [-1, -1]
+        elems = []
+        for i in range(len(nums)):
+            elems.append((nums[i], i))
+        elems.sort(key = lambda e: e[0])
+        i = 0
+        j = len(elems) - 1
+        while (i < j):
+            if (elems[i][0] + elems[j][0] == target):
+                return [elems[i][1], elems[j][1]]
+            elif (elems[i][0] + elems[j][0] < target):
+                i += 1
+            elif (elems[i][0] + elems[j][0] > target):
+                j -= 1
+        return [-1, -1]
+
+sol = Solution2()
+# print(sol.two_sum([33, -2, 14, 5, 4, 9], 3)) # should print out [1, 3]
+# print(sol.two_sum([3, 2, 4], 6)) # should print out [1, 2]
+
+class Solution3:
+    def two_sum(self, nums: List[int], target: int) -> List[int]:
+        if nums == None or len(nums) < 2:
+            return [-1, -1]
+        map = {}
+        for i in range(len(nums)):
+            if target - nums[i] in map:
+                return map[target - nums[i]], i
+            map[nums[i]] = i
+        return -1, -1
+
+sol = Solution3()
 print(sol.two_sum([33, -2, 14, 5, 4, 9], 3)) # should print out [1, 3]
 print(sol.two_sum([3, 2, 4], 6)) # should print out [1, 2]
