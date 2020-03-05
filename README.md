@@ -17,7 +17,7 @@ Supported list of problem categories for searching,
  * [Two Pointers](../../search?utf8=✓&q=tag-two-pointers)
  * [Interval](./)
  * [Sorting](../../search?utf8=✓&q=tag-sort)
- * [Linked List](./)
+ * [Linked List](../../search?utf8=✓&q=tag-linked-list)
  * [Hash](../../search?utf8=✓&q=tag-hash)
  * [Stack](./)
  * [Queue](./)
