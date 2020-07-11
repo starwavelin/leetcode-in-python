@@ -710,7 +710,7 @@ Note: $ means paid-to-view problems; \* means SQL problems; \# means bash proble
 | 52	| N-Queens II |	Hard | | |
 | 51  | N-Queens |	Hard | | |
 | 50  | Pow(x, n) |	Medium | | |
-| 49  | [Group Anagrams](AlgPrac/src/hash/GroupAnagrams.java) |	Medium | Hash| [讲解](https://www.youtube.com/watch?v=G0WEebYHJ-E) [JS 解](leetcode-js/049-group-anagrams.js)|
+| 49  | [Group Anagrams](./hash/group_anagrams.py) |	Medium | Hash| [讲解](https://www.youtube.com/watch?v=G0WEebYHJ-E)|
 | 48  | Rotate Image |	Medium | | |
 | 47  | Permutations II | Hard | | |
 | 46  | Permutations |	Medium | | |
