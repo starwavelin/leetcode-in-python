@@ -517,7 +517,7 @@ Note: $ means paid-to-view problems; \* means SQL problems; \# means bash proble
 | 245	| Shortest Word Distance III $ |	Medium | | |
 | 244	| Shortest Word Distance II $ |	Medium | | |
 | 243	| Shortest Word Distance $ |	Easy | | |
-| 242	| [Valid Anagram](AlgPrac/src/hash/Anagram.java) | Easy | Hash, ArrayMap | [讲解](https://youtu.be/PaqSyN63kB8) [JS 解](leetcode-js/242-valid-anagram.js)|
+| 242	| [Valid Anagram](./hash/valid_anagram.py) | Easy | Hash, ArrayMap | [讲解](https://youtu.be/PaqSyN63kB8)|
 | 241	| Different Ways to Add Parentheses |	Medium | | |
 | 240	| [Search a 2D Matrix II](AlgPrac/src/binarySearch/SearchMatrixII.java)	| Medium | | |
 | 239	| [Sliding Window Maximum](AlgPrac/src/array/SlidingWindowMaximum.java) |	Hard | | |
@@ -770,6 +770,6 @@ Note: $ means paid-to-view problems; \* means SQL problems; \# means bash proble
 | 4   | Insertion Sort  | Easy | Sort, Two Pointers| [讲解](https://www.youtube.com/watch?v=ys6-TlRqAo8)|
 | 3   | [Selection Sort](./)  | Easy | Sort, Two Pointers| [讲解](https://www.youtube.com/watch?v=TPA2FzUJRKM)|
 | 2   | [Bubble Sort](./)  | Easy | Sort, Two Pointers| [讲解](https://www.youtube.com/watch?v=kKLwS9jv8Yc)|
-| 1   | [Longest Uniform Substring](./) | Medium | String, Two Pointers| [讲解](https://www.youtube.com/watch?v=U2LLrtePzhc)|
+| 1   | [Longest Uniform Substring](./two_pointers/longest_uniform_substring.py) | Medium | String, Two Pointers| [讲解](https://www.youtube.com/watch?v=U2LLrtePzhc)|
 
 [[↑] Back to top](#overview)
