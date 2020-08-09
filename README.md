@@ -765,6 +765,7 @@ Note: $ means paid-to-view problems; \* means SQL problems; \# means bash proble
 ### Non-LeetCode Problem List
 | No. | Problem   | Difficulty  | Tags  | Videos |
 | ----|-----------|-------------|-------|--------|
+| 7   | [Quick Sort](./sort/quick_sort.py) | Medium | Sort, Two Pointers | [讲解]()|
 | 6   | Binary Search (Recursion Solution) | Easy | Binary Search| [讲解](https://youtu.be/U3zw4T6Anjs)|
 | 5   | Binary Search | Easy | Binary Search| [讲解](https://www.youtube.com/watch?v=J0NTXwqIO4U)|
 | 4   | [Insertion Sort](./sort/insertion_sort.py)  | Easy | Sort, Two Pointers| [讲解](https://www.youtube.com/watch?v=ys6-TlRqAo8)|
