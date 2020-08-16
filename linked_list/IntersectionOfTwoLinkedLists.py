@@ -1,7 +1,8 @@
 '''
 * Problem No. : 160
 * Problem Name: Intersection of Two Linked Lists
-* Problem URL : https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/
+* Problem URL :
+    https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/
 * Date        : March 04 2020
 * Author      :	Xian Lin
 * Notes       :
@@ -9,10 +10,15 @@
 * meta        : tag-linked-list
 '''
 
+
+from typing import ListNode
+
+
 class Solution:
-    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) \
+            -> ListNode:
         if headA is None or headB is None:
-            return None;
+            return None
         lenA = self.get_length(headA)
         lenB = self.get_length(headB)
         if lenA > lenB:
@@ -28,7 +34,7 @@ class Solution:
 
     def get_length(self, head: ListNode):
         count = 0
-        while (head != None):
+        while (head is not None):
             count += 1
             head = head.next
         return count
