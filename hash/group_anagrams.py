@@ -27,7 +27,7 @@ class Solution:
         res = []
         if (len(strs) == 0):
             return res
-        map = dict()
+        map = {} # better pratice: using {} instead of dict() if initializing an empty map
         for s in strs:
             key = ''.join(sorted(s))
             # map[key] = map.get(key, []).append(s)
