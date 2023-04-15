@@ -744,7 +744,7 @@ Note: $ means paid-to-view problems; \* means SQL problems; \# means bash proble
 | 18  |	[4Sum](AlgPrac/src/array/FourSum.java)	| Medium || |
 | 17  |	Letter Combinations of a Phone Number	| Medium || |
 | 16  |	[3Sum Closest](AlgPrac/src/array/ThreeSumClosest.java)	| Medium || |
-| 15  |	[3Sum](AlgPrac/src/array/ThreeSum.java)		| Medium || |
+| 15  |	[3Sum](array/two_pointers/three_sum.py)		| Medium || |
 | 14  |	Longest Common Prefix	| Easy || |
 | 13  |	[Roman to Integer](AlgPrac/src/math/RomanToInteger.java)		| Easy || |
 | 12  | [Integer to Roman](AlgPrac/src/math/IntegerToRoman.java)		| Medium || |
@@ -771,6 +771,6 @@ Note: $ means paid-to-view problems; \* means SQL problems; \# means bash proble
 | 4   | [Insertion Sort](./sort/insertion_sort.py)  | Easy | Sort, Two Pointers| [讲解](https://www.youtube.com/watch?v=ys6-TlRqAo8)|
 | 3   | [Selection Sort](./sort/selection_sort.py)  | Easy | Sort, Two Pointers| [讲解](https://www.youtube.com/watch?v=TPA2FzUJRKM)|
 | 2   | [Bubble Sort](./sort/bubble_sort.py)  | Easy | Sort, Two Pointers| [讲解](https://www.youtube.com/watch?v=kKLwS9jv8Yc)|
-| 1   | [Longest Uniform Substring](./two_pointers/longest_uniform_substring.py) | Medium | String, Two Pointers| [讲解](https://www.youtube.com/watch?v=U2LLrtePzhc)|
+| 1   | [Longest Uniform Substring](array/two_pointers/longest_uniform_substring.py) | Medium | String, Two Pointers| [讲解](https://www.youtube.com/watch?v=U2LLrtePzhc)|
 
 [[↑] Back to top](#overview)
